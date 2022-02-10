@@ -1,0 +1,10 @@
+.title-content{
+    border-bottom: 1px dashed;
+    border-color: #e4e6ef;
+    padding-bottom: 8px ;
+}
+.detail-box{
+    border-radius: 0.475rem 0rem 0rem 0.475rem !important;
+    background: #E4E6EF;
+    color:#84858A;
+}
